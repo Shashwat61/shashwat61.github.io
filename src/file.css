@@ -1,0 +1,142 @@
+body{
+background-color:#ddf3f5;
+color:#40514E;
+  margin:0;
+  text-align:center;
+font-family: 'Merriweather', serif;
+
+}
+h1{
+  margin:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size:5.625rem;
+color:#66BFBF;
+}
+.myimage{
+  border-radius:60%;
+  height:250px;
+  margin:50px auto;
+}
+.contactimg{
+border-radius: 60%;
+  margin:20px auto;
+  height:150px;
+
+}
+
+h2{
+color:#66BFBF;
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+padding:10px;
+}
+h3{
+color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #ddf3f5;
+  position:relative;
+  padding-top: 100px;
+}
+
+p{
+  line-height: 2;
+}
+
+.text{
+  text-decoration:underline;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+a{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin:20px 4px;
+  text-decoration: none;
+}
+a:hover{
+  color:#eaf6f6;
+}
+.copyright{
+  color:#eaf6f6;
+  font-size:0.75rem;
+  padding:20px 10px;
+}
+hr{
+  border:dotted grey 6px;
+  border-bottom:none;
+  width:4%;
+  margin:100px auto;
+}
+.contact-message{
+  width:40%;
+  margin:40px auto 60px;
+}
+.middle-container{
+  margin:100px 0;
+}
+.bottom-container{
+
+  background-color: #251f44;
+  padding:10px 0 10px;
+}
+.bottomcloud{
+  position:absolute;
+  left:250px;
+  bottom:300px;
+}
+.topcloud{
+  position:absolute;
+  right:300px;
+  top:40px;
+}
+.footer-link{
+  color:#11999E;
+  padding:20px 20px;
+}
+.programmer{
+  font-weight: normal;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+
+
+}
+.skillimage{
+  width:25%;
+  border-radius: 60%;
+  float:left;
+  margin-right: 30px;
+}
+.skillimage1{
+  width:25%;
+  border-radius:60%;
+  float:right;
+  margin-left:30px;
+}
+.btn {
+	background-color:#7fdbda;
+	border-radius:28px;
+	border:1px solid #7fdbda;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #7fdbda;
+}
+.btn:hover {
+	background-color:#76ead7;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
